@@ -35,5 +35,5 @@ Download the dataset manually and place it in the project directory before runni
 - README.md
 
 ## Authors
-Prabin Kumar Gupta and Team
+Prabin Kumar Gupta 
 
